@@ -1,6 +1,8 @@
 # DailyPractice
 
-This reprository contains codes designed to prepare for the coding interview.
+This reprository contains codes designed to prepare for the coding interview. README.md contains my personal wiki that summarizes the knowledge I ganied while studying.
+
+## Table of Contents
 
 * [정규 표현식](#정규-표현식)
 * [리스트](#리스트)
@@ -14,6 +16,7 @@ This reprository contains codes designed to prepare for the coding interview.
   s = re.sub('[^0-9a-zA-Z]','',s)
   ```
 
+---
 ### 리스트
 
 * 리스트 복사하기(shallow copy)
@@ -30,6 +33,7 @@ a = [1, 2, 3]
 a.reverse()
 ```
 
+---
 ## Challenge1
 
 * **Solving at least one problem every day for 100 days**
