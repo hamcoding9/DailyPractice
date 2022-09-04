@@ -1,12 +1,20 @@
 # DailyPractice
 
-This reprository contains codes designed to prepare for the coding interview. README.md contains my personal wiki that summarizes the knowledge I ganied while studying.
+This reprository contains codes designed to prepare for the coding interview. README.md also contains my personal wiki that summarizes the knowledge I gained while studying.
 
-## Table of Contents
+## Challenge1(in progess)
+
+* **Solving at least one problem every day for 100 days**
+
+* start date: 2022.08.12
+* progress     ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/19)
+
+# Personal Wiki
 
 * [정규 표현식](#정규-표현식)
 * [리스트](#리스트)
-* [Challenge1](#challenge1)
+
+---
 
 ### 정규 표현식
 
@@ -32,12 +40,3 @@ b = a[:]
 a = [1, 2, 3]
 a.reverse()
 ```
-
----
-## Challenge1
-
-* **Solving at least one problem every day for 100 days**
-
-* start date: 2022.08.12
-* progress     ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/19)
-
