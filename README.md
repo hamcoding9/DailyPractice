@@ -2,11 +2,11 @@
 
 This reprository contains codes designed to prepare for the coding interview.
 
-[정규 표현식](###정규-표현식)
+[정규 표현식](#정규-표현식)
 
-[리스트](###리스트)
+[리스트](#리스트)
 
-[Challenge1](##challenge1)
+[Challenge1](#challenge1)
 
 ### 정규 표현식
 
