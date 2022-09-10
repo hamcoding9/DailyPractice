@@ -60,3 +60,11 @@ sorted(d)
 sorted(d.items(), key=lambda x: x[1])
 # [('c', 0), ('a', 1), ('b', 1), ('e', 1)]
 ```
+
+* 딕셔너리의 get() 함수
+```python
+# get(x, 디폴트 값) : 딕셔너리 안에 찾으려는 key 값이 없을 경우 디폴트 값을 return함
+d['f'] = d.get('f', 0)
+d
+# {'a': 1, 'b': 1, 'e': 1, 'c': 0, 'f': 0}
+```
