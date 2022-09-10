@@ -13,7 +13,7 @@ This reprository contains codes designed to prepare for the coding interview. RE
 
 * [정규 표현식](#정규-표현식)
 * [리스트](#리스트)
-
+* [딕셔너리](#딕셔너리)
 ---
 
 ### 정규 표현식
@@ -39,4 +39,24 @@ b = a[:]
 ```python
 a = [1, 2, 3]
 a.reverse()
+```
+
+---
+### 딕셔너리
+
+* 딕셔너리 정렬
+```python
+d = {'a':1, 'b':1, 'e':1, 'c':0}
+
+# 딕셔너리 key를 기준으로 정렬
+sorted(d.items())
+# [('a', 1), ('b', 1), ('c', 0), ('e', 1)]
+
+# 딕셔너리 key 정렬 후 key만 보기
+sorted(d)
+# ['a', 'b', 'c', 'e']
+
+# 딕셔너리 value를 기준으로 정렬
+sorted(d.items(), key=lambda x: x[1])
+# [('c', 0), ('a', 1), ('b', 1), ('e', 1)]
 ```
