@@ -14,6 +14,7 @@ This reprository contains codes designed to prepare for the coding interview. RE
 * [정규 표현식](#정규-표현식)
 * [리스트](#리스트)
 * [딕셔너리](#딕셔너리)
+* [기타](#기타)
 ---
 
 ### 정규 표현식
@@ -67,4 +68,21 @@ sorted(d.items(), key=lambda x: x[1])
 d['f'] = d.get('f', 0)
 d
 # {'a': 1, 'b': 1, 'e': 1, 'c': 0, 'f': 0}
+```
+
+### 기타
+* 아스키 코드 <-> 문자
+
+
+`ord()` : 문자 -> 아스키 코드
+
+
+`chr()` : 아스키 코드 -> 문자
+
+
+```python
+ord('A')
+# 65
+chr(65)
+# 'A'
 ```
