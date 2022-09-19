@@ -1,9 +1,10 @@
+# 파이썬에서 방향 그래프는 dictinary로 구현한다.
 def solution(tickets):
     graph = {}
     for i in tickets:
         graph[i[0]] = graph.get(i[0], []) + [i[1]]
     for i in graph:
-        graph[i].sort(reverse=True) # 알파벳 내림차순으로 정렬
+        graph[i].sort(reverse=True) # 뒤에서부터 꺼내므로, 알파벳 내림차순으로 정렬
     stack = ["ICN"]
     route = []
     while len(stack) > 0:
