@@ -7,7 +7,7 @@ This reprository contains codes designed to prepare for the coding interview. RE
 * **Solving at least one problem every day for 100 days**
 
 * start date: 2022.08.12
-* progress     ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/29)
+* progress     ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
 
 # Personal Wiki
 
@@ -15,9 +15,11 @@ This reprository contains codes designed to prepare for the coding interview. RE
 * [리스트](#리스트)
 * [딕셔너리](#딕셔너리)
 * [기타](#기타)
+  * [아스키 코드](#아스키-코드)
+  * [이진 탐색 모듈](#이진-탐색-모듈)
 ---
 
-### 정규 표현식
+## 정규 표현식
 
 - `re.sub()` : 문자열 치환하기
 
@@ -26,7 +28,7 @@ This reprository contains codes designed to prepare for the coding interview. RE
   ```
 
 ---
-### 리스트
+## 리스트
 
 * 리스트 복사하기(shallow copy)
 
@@ -43,7 +45,7 @@ a.reverse()
 ```
 
 ---
-### 딕셔너리
+## 딕셔너리
 
 * 딕셔너리 정렬
 ```python
@@ -70,8 +72,8 @@ d
 # {'a': 1, 'b': 1, 'e': 1, 'c': 0, 'f': 0}
 ```
 
-### 기타
-* 아스키 코드 <-> 문자
+## 기타
+### 아스키 코드
 
 
 `ord()` : 문자 -> 아스키 코드
@@ -85,4 +87,18 @@ ord('A')
 # 65
 chr(65)
 # 'A'
+```
+
+---
+
+### 이진 탐색 모듈
+* 파이썬에는 이진 검색 알고리즘이 모듈 형태로 구현되어 있다.
+
+```python
+def search(self, nums: List[int], target: int) -> int:
+    index = bisect.bisect_left(nums, target)
+    if index < len(nums) and nums[index] == taret:
+        return index
+    else:
+        return -1
 ```
