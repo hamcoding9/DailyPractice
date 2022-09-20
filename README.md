@@ -16,7 +16,6 @@ This reprository contains codes designed to prepare for the coding interview. RE
 * [딕셔너리](#딕셔너리)
 * [기타](#기타)
   * [아스키 코드](#아스키-코드)
-  * [이진 탐색 모듈](#이진-탐색-모듈)
 ---
 
 ## 정규 표현식
@@ -87,18 +86,4 @@ ord('A')
 # 65
 chr(65)
 # 'A'
-```
-
----
-
-### 이진 탐색 모듈
-* 파이썬에는 이진 검색 알고리즘이 모듈 형태로 구현되어 있다.
-
-```python
-def search(self, nums: List[int], target: int) -> int:
-    index = bisect.bisect_left(nums, target)
-    if index < len(nums) and nums[index] == taret:
-        return index
-    else:
-        return -1
 ```
