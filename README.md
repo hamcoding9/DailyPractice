@@ -16,6 +16,7 @@ This reprository contains codes designed to prepare for the coding interview. RE
 * [딕셔너리](#딕셔너리)
 * [기타](#기타)
   * [아스키 코드](#아스키-코드)
+  * [조합](#조합)
 ---
 
 ## 정규 표현식
@@ -92,4 +93,11 @@ ord('A')
 # 65
 chr(65)
 # 'A'
+```
+
+### 조합
+```python
+from itertools import combinations
+items = [1, 2, 3, 4, 5]
+list(combinations(items, 3))
 ```
