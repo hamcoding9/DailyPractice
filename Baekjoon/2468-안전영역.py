@@ -1,5 +1,3 @@
-# status: on-going
-# 아직 다 풀지 못함! 
 import copy 
 
 n = int(input())
@@ -27,24 +25,16 @@ def dfs(graph, x, y):
                 graph[nx][ny] = 0
                 count += 1
     return count
-
-# sink = 4
-# cnt = []
-# for j in range(n):
-#     for k in range(n):
-#         if graph[j][k] > sink:
-#             cnt.append(dfs(j,k))
-# print(len(cnt))
                 
 safe_area = []
-for i in range(1, max(map(max, graph))+1): # 모든 sink 경우를 고려
+for i in range(0, max(map(max, graph))+1): # 모든 sink 경우를 고려(아무 지역도 물에 잠기지 않는 경우를 고려해서 0도 포함)
     sink = i
     cnt = [] # 안전한 영역을 담음
     g = copy.deepcopy(graph) # graph를 복사함
     for j in range(n):
         for k in range(n):
-            if graph[j][k] > sink:
-                cnt.append(dfs(g, j,k))
+            if g[j][k] > sink:
+                cnt.append(dfs(g, j, k))
     safe_area.append(len(cnt))
     
-print(safe_area)
+print(max(safe_area))
