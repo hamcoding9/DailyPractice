@@ -89,9 +89,9 @@ My Python Wiki: My personal wiki that summarizes the knowledge I gained while st
 | Day30    | [LeetCode-704-Binary Search](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY30%5D704-Binary-Search.py) |            | Binary Search |
 | Day31-32 | [LeetCode-33-Search in Rotated Sorted Array](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY31-32%5D33-Search-in-Rotated-Sorted-Array.py) |            |               |
 | Day33    | [백준-2667-단지번호 붙이기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY33%5D2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) |            | DFS/BFS       |
-| Day34    | [백준-10815-숫자 카드](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY34%5D10815-%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.py) |            |               |
+| Day34    | [백준-10815-숫자 카드](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY34%5D10815-%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.py) |            | Binary Search |
 | Day35    | [백준-2178-미로 탐색](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY35%5D2178-%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py) |            | DFS/BFS       |
 | Day36    | [백준-2667-단지번호 붙이기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY36%5D2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) |            | DFS/BFS       |
-| Day37    | [백준-2468-안전영역](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/2468-%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.py) |            |               |
-| Day38    | [백준-14502-연구소](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/14502-%EC%97%B0%EA%B5%AC%EC%86%8C.py) |            |               |
-| Day39    | [백준-10026-적록색약](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py) |            |               |
+| Day37    | [백준-2468-안전영역](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/2468-%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.py) |            | DFS/BFS       |
+| Day38    | [백준-14502-연구소](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/14502-%EC%97%B0%EA%B5%AC%EC%86%8C.py) |            | DFS/BFS       |
+| Day39    | [백준-10026-적록색약](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py) |            | DFS/BFS       |
