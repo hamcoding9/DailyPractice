@@ -62,3 +62,45 @@ print(section)
 2. dfs 진행 과정에서 조건을 x,y 색 == nx,ny 색으로 한다.
 3. graph를 copy해서 두 번 만들지 않고 visit 리스트를 활용한다.
 '''
+
+# 다른 방법 두 가지 참고해서 다시 풀이
+visit = [[0 for i in range(n)] for i in range(n)]
+
+def dfs(x:int, y:int):
+    stack = list()
+    stack.append((x, y))
+    visit[x][y] = 1
+    while stack:
+        cx, cy = stack.pop()
+        for i in range(4):
+            nx = cx + dx[i]
+            ny = cy + dy[i]
+            if nx < 0 or ny < 0 or nx >= n or ny >= n:
+                continue
+            if graph[nx][ny] == graph[x][y] and visit[nx][ny] == 0:
+                stack.append((nx, ny))
+                visit[nx][ny] = 1
+                
+# 적록색약 아닌 사람
+section = 0
+for i in range(n):
+    for j in range(n):
+        if visit[i][j] == 0:
+            dfs(i, j)
+            section += 1
+print(section, end=' ')
+
+for i in range(n):
+    for j in range(n):
+        if graph[i][j] == 'R':
+            graph[i][j] = 'G'
+
+# 적록색약인 사람
+section = 0
+visit = [[0 for i in range(n)] for i in range(n)]
+for i in range(n):
+    for j in range(n):
+        if visit[i][j] == 0:
+            dfs(i, j)
+            section += 1
+print(section)
