@@ -8,7 +8,7 @@ My Python Wiki: My personal wiki that summarizes the knowledge I gained while st
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/39)
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40)
 * 단계별 진행
   * [1단계: 기초 문제 풀이](#1단계-기초-문제-풀이)
   * [2단계: 알고리즘별 문제 풀이](#2단계-알고리즘별-문제-풀기)
@@ -95,4 +95,4 @@ My Python Wiki: My personal wiki that summarizes the knowledge I gained while st
 | Day37    | [백준-2468-안전영역](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/2468-%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.py) | Silver     | DFS/BFS       |
 | Day38    | [백준-14502-연구소](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/14502-%EC%97%B0%EA%B5%AC%EC%86%8C.py) | Gold       | DFS/BFS       |
 | Day39    | [백준-10026-적록색약](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py) | Gold       | DFS/BFS       |
-| Day40    | 백준-9663-N-Queen                                            | Gold       | Backtracking  |
+| Day40    | [백준-9663-N-Queen](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/9663-N-Queen.py) | Gold       | Backtracking  |
