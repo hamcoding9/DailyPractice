@@ -65,7 +65,7 @@ My Python Wiki: My personal wiki that summarizes the knowledge I gained while st
 | Day14 | [프로그래머스-음양 더하기](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY14%5D%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.py) | Level 1    |
 | Day15 | [프로그래머스-로또의 최고 순위와 최저 순위](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY15%5D%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.py) | Level 1    |
 | Day16 | [프로그래머스-완주하지 못한 선수](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY16%5D%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py) | Level 1    |
-| Day17 | [백준-2789-유학금지](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY17%5D2789.py) |            |
+| Day17 | [백준-2789-유학금지](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY17%5D2789.py) | Bronze     |
 | Day18 | [LeetCode-125-Valid Palindrome](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY18%5D125-Valid-Palindrome.py) | Easy       |
 | Day19 | [LeetCode-937-Reorder Data in Log Files](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY19%5D937-Reorder-Data-in-Log-Files.py) | Medium     |
 | Day20 | [LeetCode-819-Most Common Word](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY20%5D819-Most-Common-Word.py) | Easy       |
@@ -85,13 +85,14 @@ My Python Wiki: My personal wiki that summarizes the knowledge I gained while st
 | Day26    | [프로그래머스-큰 수 만들기](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY26%5D%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | Level 2    | Greedy        |
 | Day27    | [프로그래머스-가장 큰 수](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY27%5D%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py) | Level 2    | Sort          |
 | Day28    | [프로그래머스-여행경로](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY28%5D%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py) | Level 3    | DFS/BFS       |
-| Day29    | [LeetCode-200-Number of Islands](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY29%5D200-Number-of-Islands.py) |            | DFS/BFS       |
-| Day30    | [LeetCode-704-Binary Search](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY30%5D704-Binary-Search.py) |            | Binary Search |
-| Day31-32 | [LeetCode-33-Search in Rotated Sorted Array](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY31-32%5D33-Search-in-Rotated-Sorted-Array.py) |            |               |
-| Day33    | [백준-2667-단지번호 붙이기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY33%5D2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) |            | DFS/BFS       |
-| Day34    | [백준-10815-숫자 카드](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY34%5D10815-%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.py) |            | Binary Search |
-| Day35    | [백준-2178-미로 탐색](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY35%5D2178-%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py) |            | DFS/BFS       |
-| Day36    | [백준-2667-단지번호 붙이기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY36%5D2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) |            | DFS/BFS       |
-| Day37    | [백준-2468-안전영역](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/2468-%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.py) |            | DFS/BFS       |
-| Day38    | [백준-14502-연구소](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/14502-%EC%97%B0%EA%B5%AC%EC%86%8C.py) |            | DFS/BFS       |
-| Day39    | [백준-10026-적록색약](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py) |            | DFS/BFS       |
+| Day29    | [LeetCode-200-Number of Islands](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY29%5D200-Number-of-Islands.py) | Medium     | DFS/BFS       |
+| Day30    | [LeetCode-704-Binary Search](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY30%5D704-Binary-Search.py) | Easy       | Binary Search |
+| Day31-32 | [LeetCode-33-Search in Rotated Sorted Array](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY31-32%5D33-Search-in-Rotated-Sorted-Array.py) | Medium     | Binary Search |
+| Day33    | [백준-2667-단지번호 붙이기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY33%5D2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) | Silver     | DFS/BFS       |
+| Day34    | [백준-10815-숫자 카드](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY34%5D10815-%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.py) | Silver     | Binary Search |
+| Day35    | [백준-2178-미로 탐색](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY35%5D2178-%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py) | Silver     | DFS/BFS       |
+| Day36    | [백준-2667-단지번호 붙이기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY36%5D2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) | Silver     | DFS/BFS       |
+| Day37    | [백준-2468-안전영역](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/2468-%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.py) | Silver     | DFS/BFS       |
+| Day38    | [백준-14502-연구소](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/14502-%EC%97%B0%EA%B5%AC%EC%86%8C.py) | Gold       | DFS/BFS       |
+| Day39    | [백준-10026-적록색약](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py) | Gold       | DFS/BFS       |
+| Day40    | 백준-9663-N-Queen                                            | Gold       | Backtracking  |
