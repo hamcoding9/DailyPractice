@@ -96,3 +96,4 @@ My Python Wiki: My personal wiki that summarizes the knowledge I gained while st
 | Day38    | [백준-14502-연구소](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/14502-%EC%97%B0%EA%B5%AC%EC%86%8C.py) | Gold       | DFS/BFS       |
 | Day39    | [백준-10026-적록색약](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py) | Gold       | DFS/BFS       |
 | Day40    | [백준-9663-N-Queen](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/9663-N-Queen.py) | Gold       | Backtracking  |
+| Day41    | 백준-1756-피자굽기                                           |            | Binary Search |
