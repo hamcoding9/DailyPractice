@@ -8,7 +8,7 @@ My Python Wiki: My personal wiki that summarizes the knowledge I gained while st
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40)
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/41)
 * 단계별 진행
   * [1단계: 기초 문제 풀이](#1단계-기초-문제-풀이)
   * [2단계: 알고리즘별 문제 풀이](#2단계-알고리즘별-문제-풀기)
