@@ -1,4 +1,7 @@
-# 현상황: 시간 초과
+# 1. 2022-10-17에 푼 코드
+# 2. OrderedDict를 활용
+# 3. 오븐 길이를 전부 순회하므로 O(n)으로 시간 초과가 나옴
+
 from collections import OrderedDict
 
 n, m = map(int,input().split())
@@ -23,4 +26,26 @@ while oven: # 오븐을 다 순회할 때까지
 if len(pizza_index) == m:
     print(pizza_index[-1])
 else: # 피자가 모두 들어가지 않은 경우
+    print(0)
+    
+# 1. 2022-10-18에 푼 코드
+
+n, m = map(int,input().split())
+oven = list(map(int, input().split()))
+pizzas = list(map(int, input().split()))
+
+for i in range(n-1):
+    if oven[i] < oven[i+1]:
+        oven[i+1] = oven[i]
+        
+p = 0        
+for i in range(n - 1, -1, -1):
+    if pizzas[p] > oven[i]:
+        continue
+    p += 1
+    if p == m:
+        print(i+1)
+        break
+
+if p < m:
     print(0)
