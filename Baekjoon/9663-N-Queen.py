@@ -26,3 +26,30 @@ def solve_n_queen(N : int) -> int:
     return final_result
 
 print(len(solve_n_queen(N)))
+
+# 두 번째 풀이
+# 또 시간 초과임 (대체...ㅡㅡ)
+
+N = int(input())
+row = [0] * N
+result = 0
+
+def is_available(x):
+    for i in range(x):
+        if row[x] == row[i] or abs(row[x] - row[i]) == x - i:
+            return False
+    return True
+
+def DFS(x): # x = 행
+    global result
+    if x == N: 
+        result += 1 # 경우의 수 추가
+        return
+    else:
+        for i in range(N): 
+            row[x] = i # 각 행에 말 놓기
+            if is_available(x):
+                DFS(x + 1)
+
+DFS(0)
+print(result)
