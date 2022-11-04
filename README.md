@@ -2,13 +2,11 @@
 
 This repository contains codes designed to prepare for the coding interview.
 
-My Python Wiki: My personal wiki that summarizes the knowledge I gained while studying.
-
 # Challenge
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/41)
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/43)
 * 단계별 진행
   * [1단계: 기초 문제 풀이](#1단계-기초-문제-풀이)
   * [2단계: 알고리즘별 문제 풀이](#2단계-알고리즘별-문제-풀기)
@@ -97,4 +95,5 @@ My Python Wiki: My personal wiki that summarizes the knowledge I gained while st
 | Day39    | [백준-10026-적록색약](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py) | Gold       | DFS/BFS       |
 | Day40    | [백준-9663-N-Queen](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/9663-N-Queen.py) | Gold       | Backtracking  |
 | Day41    | [백준-1756-피자굽기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/1756-%ED%94%BC%EC%9E%90%EA%B5%BD%EA%B8%B0.py) | Gold       | Binary Search |
-| Day42    | 프로그래머스-영어 끝말잇기                                   | Level 2    |               |
+| Day42    | [프로그래머스-영어 끝말잇기](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py) | Level 2    |               |
+| Day43    | 프로그래머스-기지국 설치                                     | Level 3    |               |
