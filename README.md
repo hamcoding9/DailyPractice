@@ -96,4 +96,4 @@ This repository contains codes designed to prepare for the coding interview.
 | Day40    | [백준-9663-N-Queen](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/9663-N-Queen.py) | Gold       | Backtracking  |
 | Day41    | [백준-1756-피자굽기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/1756-%ED%94%BC%EC%9E%90%EA%B5%BD%EA%B8%B0.py) | Gold       | Binary Search |
 | Day42    | [프로그래머스-영어 끝말잇기](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py) | Level 2    |               |
-| Day43    | 프로그래머스-기지국 설치                                     | Level 3    |               |
+| Day43    | [프로그래머스-기지국 설치](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98.py) | Level 3    |               |
