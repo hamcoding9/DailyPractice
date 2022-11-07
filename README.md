@@ -6,7 +6,7 @@ This repository contains codes designed to prepare for the coding interview.
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/43)
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/44)
 * 단계별 진행
   * [1단계: 기초 문제 풀이](#1단계-기초-문제-풀이)
   * [2단계: 알고리즘별 문제 풀이](#2단계-알고리즘별-문제-풀기)
@@ -97,3 +97,4 @@ This repository contains codes designed to prepare for the coding interview.
 | Day41    | [백준-1756-피자굽기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/1756-%ED%94%BC%EC%9E%90%EA%B5%BD%EA%B8%B0.py) | Gold       | Binary Search |
 | Day42    | [프로그래머스-영어 끝말잇기](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py) | Level 2    |               |
 | Day43    | [프로그래머스-기지국 설치](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98.py) | Level 3    |               |
+| Day44    | 백준-10819-차이를 최대로                                     | Silver     | brute force   |
