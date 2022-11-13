@@ -6,7 +6,7 @@ This repository contains codes designed to prepare for the coding interview.
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/45)
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/46)
 * 단계별 진행
   * [1단계: 기초 문제 풀이](#1단계-기초-문제-풀이)
   * [2단계: 알고리즘별 문제 풀이](#2단계-알고리즘별-문제-풀기)
@@ -98,4 +98,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day42    | [프로그래머스-영어 끝말잇기](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py) | Level 2    |               |
 | Day43    | [프로그래머스-기지국 설치](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98.py) | Level 3    |               |
 | Day44    | [백준-10819-차이를 최대로](https://github.com/hamcoding9/DailyPractice/blob/main/Baekjoon/10819-%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C.py) | Silver     | brute force   |
-| Day45    | 프로그래머스-숫자 게임                                       | Level 3    |               |
+| Day45    | [프로그래머스-숫자 게임](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.py) | Level 3    |               |
+| Day46    | 프로그래머스-단속 카메라                                     | Level 3    | Greedy        |
