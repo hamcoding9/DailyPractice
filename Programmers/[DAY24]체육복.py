@@ -14,7 +14,7 @@ def solution(n, lost, reserve):
     return answer
 
 # set을 활용한 풀이
- def solution(n, lost, reserve):
+def solution(n, lost, reserve):
     have_uniform = set(lost) & set(reserve)
     lost_uniform = set(lost) - have_uniform
     reserve_uniform = set(reserve) - have_uniform
