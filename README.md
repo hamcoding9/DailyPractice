@@ -99,5 +99,6 @@ This repository contains codes designed to prepare for the coding interview.
 | Day43    | [프로그래머스-기지국 설치](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98.py) | Level 3    |               |
 | Day44    | [백준-10819-차이를 최대로](https://github.com/hamcoding9/DailyPractice/blob/main/Baekjoon/10819-%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C.py) | Silver     | brute force   |
 | Day45    | [프로그래머스-숫자 게임](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.py) | Level 3    |               |
-| Day46    | 프로그래머스-단속 카메라                                     | Level 3    | Greedy        |
-| Day47    | 프로그래머스-베스트 앨범                                     | Level 3    | Hash          |
+| Day46    | [프로그래머스-단속 카메라](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%8B%A8%EC%86%8D%20%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | Level 3    | Greedy        |
+| Day47    | [프로그래머스-베스트 앨범](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94.py) | Level 3    | Hash          |
+| Day48    | 프로그래머스-가장 긴 팰린드롬                                | Level 3    |               |
