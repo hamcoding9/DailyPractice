@@ -6,11 +6,10 @@ This repository contains codes designed to prepare for the coding interview.
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/47)
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/49)
 * 단계별 진행
   * [1단계: 기초 문제 풀이](#1단계-기초-문제-풀이)
   * [2단계: 알고리즘별 문제 풀이](#2단계-알고리즘별-문제-풀기)
-  * 3단계: 지원 기업별 기출 문제 풀이
 
 ## 1단계: 기초 문제 풀이
 
@@ -101,4 +100,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day45    | [프로그래머스-숫자 게임](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.py) | Level 3    |               |
 | Day46    | [프로그래머스-단속 카메라](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%8B%A8%EC%86%8D%20%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | Level 3    | Greedy        |
 | Day47    | [프로그래머스-베스트 앨범](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94.py) | Level 3    | Hash          |
-| Day48    | 프로그래머스-가장 긴 팰린드롬                                | Level 3    |               |
+| Day48    | [프로그래머스-가장 긴 팰린드롬](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py) | Level 2    |               |
+| Day49    | 프로그래머스-주차 요금 계산(2022 Kakao)                      | Level 2    | 구현          |
