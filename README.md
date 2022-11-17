@@ -102,3 +102,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day47    | [프로그래머스-베스트 앨범](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94.py) | Level 3    | Hash          |
 | Day48    | [프로그래머스-가장 긴 팰린드롬](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py) | Level 2    |               |
 | Day49    | 프로그래머스-주차 요금 계산(2022 Kakao)                      | Level 2    | 구현          |
+| Day49    | 프로그래머스-더맵게                                          | Level 2    | Heap          |
+
