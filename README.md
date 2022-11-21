@@ -101,7 +101,8 @@ This repository contains codes designed to prepare for the coding interview.
 | Day46    | [프로그래머스-단속 카메라](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%8B%A8%EC%86%8D%20%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | Level 3    | Greedy        |
 | Day47    | [프로그래머스-베스트 앨범](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94.py) | Level 3    | Hash          |
 | Day48    | [프로그래머스-가장 긴 팰린드롬](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py) | Level 2    |               |
-| Day49    | [프로그래머스-주차 요금 계산(2022 Kakao)](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.py) | Level 2    | 구현          |
+| Day49    | [프로그래머스-주차 요금 계산(2022 Kakao)](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.py) | Level 2    |               |
 | Day49    | [프로그래머스-더맵게](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py) | Level 2    | Heap          |
 | Day50    | 프로그래머스-게임 맵 최단거리                                | Level 2    | DFS/BFS       |
+| Day51    | 프로그래머스-성격 유형 검사(2022 Kakao)                      | Level 1    |               |
 
