@@ -33,11 +33,15 @@ result_rs = string.rstrip()
 
 ## 리스트
 
-### 리스트 복사하기(shallow copy)
+### 리스트 복사하기
 
 ```python
+# shallow copy
 a = [1, 2, 3]
-b = a[:]
+b = a
+# deep copy
+from copy import deepcopy
+c = deepcopy(a)
 ```
 
 ### 리스트 뒤집기
