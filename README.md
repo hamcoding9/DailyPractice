@@ -6,7 +6,7 @@ This repository contains codes designed to prepare for the coding interview.
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/52)
 * 단계별 진행
   * [1단계: 기초 문제 풀이](#1단계-기초-문제-풀이)
   * [2단계: 알고리즘별 문제 풀이](#2단계-알고리즘별-문제-풀기)
@@ -103,6 +103,8 @@ This repository contains codes designed to prepare for the coding interview.
 | Day48    | [프로그래머스-가장 긴 팰린드롬](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py) | Level 2    |               |
 | Day49    | [프로그래머스-주차 요금 계산(2022 Kakao)](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.py) | Level 2    |               |
 | Day49    | [프로그래머스-더맵게](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py) | Level 2    | Heap          |
-| Day50    | 프로그래머스-게임 맵 최단거리                                | Level 2    | DFS/BFS       |
-| Day51    | 프로그래머스-성격 유형 검사(2022 Kakao)                      | Level 1    |               |
+| Day50    | [프로그래머스-게임 맵 최단거리](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py) | Level 2    | DFS/BFS       |
+| Day51    | [프로그래머스-성격 유형 검사(2022 Kakao)](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC.py) | Level 1    |               |
+| Day52    | 프로그래머스-N으로 표현                                      | Level 3    | DP            |
+| Day52    | 프로그래머스                                                 |            |               |
 
