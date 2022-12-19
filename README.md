@@ -111,4 +111,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day53    | 프로그래머스-최솟값 만들기                                   | Level 2    |               |
 | Day53    | 프로그래머스-JadenCase 문자열 만들기                         | Level 2    |               |
 | Day54    | 프로그래머스-이진 변환 반복하기                              | Level 2    |               |
+| Day54    | 프로그래머스-올바른 괄호                                     | Level 2    |               |
 
