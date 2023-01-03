@@ -116,5 +116,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day56    | 연습문제-큰 수의 법칙                                        |            | Greedy        |
 | Day57    | 구명보트                                                     |            | Greedy        |
 | Day58    | 백준-18406-럭키 스트레이트                                   | Bronze     | 구현          |
-|          |                                                              |            |               |
+| Day58    | 연습문제-문자열 재정렬                                       |            | 구현          |
 
