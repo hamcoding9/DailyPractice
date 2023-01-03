@@ -114,4 +114,7 @@ This repository contains codes designed to prepare for the coding interview.
 | Day54    | 프로그래머스-올바른 괄호                                     | Level 2    |               |
 | Day55    | 프로그래머스-카펫                                            | Level 2    |               |
 | Day56    | 연습문제-큰 수의 법칙                                        |            | Greedy        |
+| Day57    | 구명보트                                                     |            | Greedy        |
+| Day58    | 백준-18406-럭키 스트레이트                                   | Bronze     | 구현          |
+|          |                                                              |            |               |
 
