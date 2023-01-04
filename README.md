@@ -6,7 +6,7 @@ This repository contains codes designed to prepare for the coding interview.
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/53)
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/59)
 * [Hancoding Wiki](https://github.com/hamcoding9/DailyPractice/blob/main/Hamcoding%20Wiki.md): My Cheat sheet
 
 * 단계별 진행
@@ -117,4 +117,6 @@ This repository contains codes designed to prepare for the coding interview.
 | Day57    | 구명보트                                                     |            | Greedy        |
 | Day58    | 백준-18406-럭키 스트레이트                                   | Bronze     | 구현          |
 | Day58    | 연습문제-문자열 재정렬                                       |            | 구현          |
+| Day59    | 프로그래머스-H-index                                         | Level 2    | 정렬          |
+|          |                                                              |            |               |
 
