@@ -5,6 +5,7 @@
 * [딕셔너리](#딕셔너리)
 * [힙](#힙)
 * [데크](#데크)
+* [bisect](#bisect)
 * [기타](#기타)
   * [아스키 코드](#아스키-코드)
   * [조합](#조합)
@@ -159,6 +160,24 @@ deq.pop()
 # deque([1, 2, 3])
 deq.rotate(1)
 # deque([3, 1, 2])
+```
+
+[목차](#Hamcoding-Wiki)
+
+# Bisect
+
+`from bisect import bisect_left, bisect_right`
+
+* 정렬된 리스트에서 정렬된 순서를 유지하도록 한 요소를 삽입할 index를 반환하는 함수
+* `bisect_left`: 삽입 위치가 기존 항목의 왼쪽
+* `bisect_right`: 삽입 위치가 기존 항목의 오른쪽
+
+```python
+array = [1, 2, 2, 2, 3, 4]
+bisect_left(array, 2)
+# 1
+bisect_right(array, 2)
+# 4
 ```
 
 [목차](#Hamcoding-Wiki)
