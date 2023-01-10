@@ -1,9 +1,9 @@
 from bisect import bisect_left, bisect_right
 
 def binary_search(array:list, target:int) -> int:
-    start, end = 0, len(array)
+    start, end = 0, len(array) - 1
     count = 0
-    while start < end:
+    while start <= end:
         mid = (start + end) // 2
         if array[mid] < target:
             start = mid + 1
