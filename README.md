@@ -6,7 +6,7 @@ This repository contains codes designed to prepare for the coding interview.
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/61)
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/62)
 * [Hancoding Wiki](https://github.com/hamcoding9/DailyPractice/blob/main/Hamcoding%20Wiki.md): My Cheat sheet
 
 * 단계별 진행
@@ -121,4 +121,8 @@ This repository contains codes designed to prepare for the coding interview.
 | Day59    | 프로그래머스-문자열 압축(2020 Kakao)                         | Lavel 2    | 구현          |
 | Day60    | 프로그래머스-자물쇠와 열쇠                                   | Level 3    | 구현          |
 | Day61    | 연습문제-정렬된 배열에서 특정 수의 개수 구하기               |            | Binary Search |
+| Day62    | 연습문제-고정점 찾기                                         |            | Binary Search |
+| Day63    | 백준-공유기 설치                                             |            | Binary Search |
+| Day64    | 백준-안테기                                                  |            | Sort          |
+| Day65    | 백준-국영수                                                  |            | Sort          |
 
