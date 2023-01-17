@@ -126,4 +126,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day64    | 백준-안테기                                                  |            | Sort          |
 | Day65    | 백준-국영수                                                  |            | Sort          |
 | Day66    | 프로그래머스-실패율(2019 KAKAO)                              | Level 1    | Sort          |
+| Day67    | 백준-카드 정렬하기                                           |            | Sort          |
 
