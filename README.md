@@ -128,4 +128,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day66    | 프로그래머스-실패율(2019 KAKAO)                              | Level 1    | Sort          |
 | Day67    | 백준-카드 정렬하기                                           |            | Sort          |
 | Day68    | 연습문제-모험가 길드                                         |            | Greedy        |
+| Day68    | 연습문제-곱하기 혹은 더하기                                  |            | Greedy        |
 
