@@ -6,7 +6,7 @@ This repository contains codes designed to prepare for the coding interview.
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/66)
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/68)
 * [Hancoding Wiki](https://github.com/hamcoding9/DailyPractice/blob/main/Hamcoding%20Wiki.md): My Cheat sheet
 
 * 단계별 진행
@@ -127,4 +127,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day65    | 백준-국영수                                                  |            | Sort          |
 | Day66    | 프로그래머스-실패율(2019 KAKAO)                              | Level 1    | Sort          |
 | Day67    | 백준-카드 정렬하기                                           |            | Sort          |
+| Day68    | 연습문제-모험가 길드                                         |            | Greedy        |
 
