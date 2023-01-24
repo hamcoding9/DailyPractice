@@ -1,5 +1,5 @@
 # 몇몇 케이스에서 시간 초과가 나온다.
-# 더 적은 양의 숫자가 시작과 끝에 있을 경우 전체 숫자를 계속 뒤집으면서 무한 반복이 되기 때문인 것 같다.
+# 더 적은 양의 숫자가 시작과 끝을 차지한 경우 전체 숫자를 계속 뒤집으면서 무한 반복이 되기 때문인 것 같다.
 # 해결책을 더 고민해보자...
 
 num = list(map(int, list(input())))
@@ -32,3 +32,24 @@ while not is_same(num):
     count += 1
 
 print(count)
+
+# 두 번째 방법
+# 올 클리어
+
+num = input()
+
+count0, count1 = 0, 0
+
+if num[0] == '0':
+    count1 += 1
+else:
+    count0 += 0
+
+for i in range(len(num) - 1):
+    if num[i] != num[i+1]:
+        if num[i+1] == '0':
+            count1 += 1
+        else:
+            count0 += 1
+
+print(min(count0, count1))

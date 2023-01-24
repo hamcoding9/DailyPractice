@@ -130,4 +130,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day68    | 연습문제-모험가 길드                                         |            | Greedy        |
 | Day68    | 연습문제-곱하기 혹은 더하기                                  |            | Greedy        |
 | Day69    | 연습문제-만들 수 없는 금액                                   |            | Greedy        |
+| Day69    | 백준-뒤집기                                                  |            | Greedy        |
 
