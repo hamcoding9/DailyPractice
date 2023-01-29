@@ -6,7 +6,7 @@ This repository contains codes designed to prepare for the coding interview.
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/68)
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 * [Hancoding Wiki](https://github.com/hamcoding9/DailyPractice/blob/main/Hamcoding%20Wiki.md): My Cheat sheet
 
 * 단계별 진행
@@ -131,4 +131,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day68    | 연습문제-곱하기 혹은 더하기                                  |            | Greedy        |
 | Day69    | 연습문제-만들 수 없는 금액                                   |            | Greedy        |
 | Day69    | 백준-뒤집기                                                  |            | Greedy        |
+| Day70    | 연습문제-볼링공 고르기                                       |            | Greedy        |
 
