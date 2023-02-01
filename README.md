@@ -133,4 +133,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day69    | 백준-뒤집기                                                  |            | Greedy        |
 | Day70    | 연습문제-볼링공 고르기                                       |            | Greedy        |
 | Day71    | 백준-특정 거리의 도시 찾기                                   |            | DFS/BFS       |
+| Day72    | 백준-경쟁적 전염                                             |            | DFS/BFS       |
 
