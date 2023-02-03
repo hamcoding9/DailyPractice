@@ -2,18 +2,20 @@
 
 This repository contains codes designed to prepare for the coding interview.
 
-# Challenge
+## My Cheat Sheet
+
+[Hancoding Wiki](https://github.com/hamcoding9/DailyPractice/blob/main/Hamcoding%20Wiki.md)
+
+## Challenge
 
 * 100일 동안 하루에 한 문제씩 해결하기
 * 시작 날짜: 2022.08.12
-* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
-* [Hancoding Wiki](https://github.com/hamcoding9/DailyPractice/blob/main/Hamcoding%20Wiki.md): My Cheat sheet
-
+* 진행 상태: ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/73)
 * 단계별 진행
   * [1단계: 기초 문제 풀이](#1단계-기초-문제-풀이)
   * [2단계: 알고리즘별 문제 풀이](#2단계-알고리즘별-문제-풀기)
 
-## 1단계: 기초 문제 풀이
+### 1단계: 기초 문제 풀이
 
 * **Mission : 기초 문제 위주로 풀면서 코딩테스트에서 자주 사용되는 파이썬 문법 익히기**
 
@@ -71,7 +73,7 @@ This repository contains codes designed to prepare for the coding interview.
 | Day20 | [LeetCode-937-Reorder Data in Log Files](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY20%5D937-Reorder-Data-in-Log-Files.py) | Medium     |
 | Day21 | [LeetCode-1-Two Sum](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY21%5D1-Two-Sum.py) | Easy       |
 
-## 2단계: 알고리즘별 문제 풀기
+### 2단계: 알고리즘별 문제 풀기
 
 * **Mission: 알고리즘 학습 후 알고리즘별 문제 풀기**
 
@@ -134,4 +136,5 @@ This repository contains codes designed to prepare for the coding interview.
 | Day70    | 연습문제-볼링공 고르기                                       |            | Greedy        |
 | Day71    | 백준-특정 거리의 도시 찾기                                   |            | DFS/BFS       |
 | Day72    | 백준-경쟁적 전염                                             |            | DFS/BFS       |
+| Day73    | 프로그래머스-괄호변환(2020 KAKAO)                            | Level 2    | 구현          |
 
