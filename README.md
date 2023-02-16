@@ -74,69 +74,71 @@ This repository contains codes designed to prepare for the coding interview.
 
 * **Mission: 알고리즘 학습 후 알고리즘별 문제 풀기**
 
-| Day      | Problem                                                      | Difficulty | Algorithm     | 문제 링크                                     |
-| -------- | ------------------------------------------------------------ | ---------- | ------------- | --------------------------------------------- |
-| Day22    | [프로그래머스-완주하지 못한 선수](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY22%5D%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py) | Level 1    | Hash          | 링크                                          |
-| Day23    | [프로그래머스-전화번호 목록](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY23%5D%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py) | Level 2    | Hash          | 링크                                          |
-| Day24    | [프로그래머스-체육복](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY24%5D%EC%B2%B4%EC%9C%A1%EB%B3%B5.py) | Level 1    | Greedy        | 링크                                          |
-| Day25    | [프로그래머스-조이스틱](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY25%5D%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.py) | Level 2    | Greedy        | 링크                                          |
-| Day26    | [프로그래머스-큰 수 만들기](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY26%5D%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | Level 2    | Greedy        |                                               |
-| Day27    | [프로그래머스-가장 큰 수](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY27%5D%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py) | Level 2    | Sort          |                                               |
-| Day28    | [프로그래머스-여행경로](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY28%5D%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py) | Level 3    | DFS/BFS       |                                               |
-| Day29    | [LeetCode-200-Number of Islands](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY29%5D200-Number-of-Islands.py) | Medium     | DFS/BFS       |                                               |
-| Day30    | [LeetCode-704-Binary Search](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY30%5D704-Binary-Search.py) | Easy       | Binary Search |                                               |
-| Day31-32 | [LeetCode-33-Search in Rotated Sorted Array](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY31-32%5D33-Search-in-Rotated-Sorted-Array.py) | Medium     | Binary Search |                                               |
-| Day33    | [백준-2667-단지번호 붙이기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY33%5D2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) | Silver     | DFS/BFS       |                                               |
-| Day34    | [백준-10815-숫자 카드](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY34%5D10815-%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.py) | Silver     | Binary Search |                                               |
-| Day35    | [백준-2178-미로 탐색](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY35%5D2178-%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py) | Silver     | DFS/BFS       |                                               |
-| Day36    | [백준-2667-단지번호 붙이기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY36%5D2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) | Silver     | DFS/BFS       |                                               |
-| Day37    | [백준-2468-안전영역](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/2468-%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.py) | Silver     | DFS/BFS       |                                               |
-| Day38    | [백준-14502-연구소](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/14502-%EC%97%B0%EA%B5%AC%EC%86%8C.py) | Gold       | DFS/BFS       |                                               |
-| Day39    | [백준-10026-적록색약](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py) | Gold       | DFS/BFS       |                                               |
-| Day40    | [백준-9663-N-Queen](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/9663-N-Queen.py) | Gold       | Backtracking  |                                               |
-| Day41    | [백준-1756-피자굽기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/1756-%ED%94%BC%EC%9E%90%EA%B5%BD%EA%B8%B0.py) | Gold       | Binary Search |                                               |
-| Day42    | [프로그래머스-영어 끝말잇기](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py) | Level 2    |               |                                               |
-| Day43    | [프로그래머스-기지국 설치](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98.py) | Level 3    |               |                                               |
-| Day44    | [백준-10819-차이를 최대로](https://github.com/hamcoding9/DailyPractice/blob/main/Baekjoon/10819-%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C.py) | Silver     | brute force   |                                               |
-| Day45    | [프로그래머스-숫자 게임](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.py) | Level 3    |               |                                               |
-| Day46    | [프로그래머스-단속 카메라](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%8B%A8%EC%86%8D%20%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | Level 3    | Greedy        |                                               |
-| Day47    | [프로그래머스-베스트 앨범](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94.py) | Level 3    | Hash          |                                               |
-| Day48    | [프로그래머스-가장 긴 팰린드롬](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py) | Level 2    |               |                                               |
-| Day49    | [프로그래머스-주차 요금 계산(2022 Kakao)](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.py) | Level 2    |               |                                               |
-| Day49    | [프로그래머스-더맵게](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py) | Level 2    | Heap          |                                               |
-| Day50    | [프로그래머스-게임 맵 최단거리](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py) | Level 2    | DFS/BFS       |                                               |
-| Day51    | [프로그래머스-성격 유형 검사(2022 Kakao)](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC.py) | Level 1    |               |                                               |
-| Day52    | 프로그래머스-N으로 표현                                      | Level 3    | DP            |                                               |
-| Day53    | 프로그래머스-최솟값 만들기                                   | Level 2    |               |                                               |
-| Day53    | 프로그래머스-JadenCase 문자열 만들기                         | Level 2    |               |                                               |
-| Day54    | 프로그래머스-이진 변환 반복하기                              | Level 2    |               |                                               |
-| Day54    | 프로그래머스-올바른 괄호                                     | Level 2    |               |                                               |
-| Day55    | 프로그래머스-카펫                                            | Level 2    |               |                                               |
-| Day56    | 연습문제-큰 수의 법칙                                        |            | Greedy        |                                               |
-| Day57    | 구명보트                                                     |            | Greedy        |                                               |
-| Day58    | 백준-18406-럭키 스트레이트                                   | Bronze     | 구현          |                                               |
-| Day58    | 연습문제-문자열 재정렬                                       |            | 구현          |                                               |
-| Day59    | 프로그래머스-H-index                                         | Level 2    | 정렬          |                                               |
-| Day59    | 프로그래머스-문자열 압축(2020 Kakao)                         | Lavel 2    | 구현          |                                               |
-| Day60    | 프로그래머스-자물쇠와 열쇠                                   | Level 3    | 구현          |                                               |
-| Day61    | 연습문제-정렬된 배열에서 특정 수의 개수 구하기               |            | Binary Search |                                               |
-| Day62    | 연습문제-고정점 찾기                                         |            | Binary Search |                                               |
-| Day63    | 백준-공유기 설치                                             |            | Binary Search |                                               |
-| Day64    | 백준-안테기                                                  |            | Sort          |                                               |
-| Day65    | 백준-국영수                                                  |            | Sort          |                                               |
-| Day66    | 프로그래머스-실패율(2019 KAKAO)                              | Level 1    | Sort          |                                               |
-| Day67    | 백준-카드 정렬하기                                           |            | Sort          |                                               |
-| Day68    | 연습문제-모험가 길드                                         |            | Greedy        |                                               |
-| Day68    | 연습문제-곱하기 혹은 더하기                                  |            | Greedy        |                                               |
-| Day69    | 연습문제-만들 수 없는 금액                                   |            | Greedy        |                                               |
-| Day69    | 백준-뒤집기                                                  |            | Greedy        |                                               |
-| Day70    | 연습문제-볼링공 고르기                                       |            | Greedy        |                                               |
-| Day71    | 백준-특정 거리의 도시 찾기                                   |            | DFS/BFS       |                                               |
-| Day72    | 백준-경쟁적 전염                                             |            | DFS/BFS       |                                               |
-| Day73    | 프로그래머스-괄호변환(2020 KAKAO)                            | Level 2    | 구현          |                                               |
-| Day74    | 백준-음계                                                    | Bronze     |               |                                               |
-|          | 백준-블랙잭                                                  | Bronze     |               |                                               |
-|          | 백준-스택 수열                                               | Silver     |               |                                               |
-|          | 백준-프린터 큐                                               | Silver     |               |                                               |
-| Day75    | 백준-컨베이어 벨트 위의 로봇                                 | Gold 5     | 구현          | [링크](https://www.acmicpc.net/problem/20055) |
+| Day      | Problem                                                      | Difficulty | Algorithm        | 문제 링크                                     |
+| -------- | ------------------------------------------------------------ | ---------- | ---------------- | --------------------------------------------- |
+| Day22    | [프로그래머스-완주하지 못한 선수](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY22%5D%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py) | Level 1    | Hash             | 링크                                          |
+| Day23    | [프로그래머스-전화번호 목록](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY23%5D%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py) | Level 2    | Hash             | 링크                                          |
+| Day24    | [프로그래머스-체육복](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY24%5D%EC%B2%B4%EC%9C%A1%EB%B3%B5.py) | Level 1    | Greedy           | 링크                                          |
+| Day25    | [프로그래머스-조이스틱](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY25%5D%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.py) | Level 2    | Greedy           | 링크                                          |
+| Day26    | [프로그래머스-큰 수 만들기](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY26%5D%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | Level 2    | Greedy           |                                               |
+| Day27    | [프로그래머스-가장 큰 수](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY27%5D%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py) | Level 2    | Sort             |                                               |
+| Day28    | [프로그래머스-여행경로](https://github.com/yxllout/DailyPractice/blob/main/programmers-lv1/%5BDAY28%5D%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py) | Level 3    | DFS/BFS          |                                               |
+| Day29    | [LeetCode-200-Number of Islands](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY29%5D200-Number-of-Islands.py) | Medium     | DFS/BFS          |                                               |
+| Day30    | [LeetCode-704-Binary Search](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY30%5D704-Binary-Search.py) | Easy       | Binary Search    |                                               |
+| Day31-32 | [LeetCode-33-Search in Rotated Sorted Array](https://github.com/yxllout/DailyPractice/blob/main/LeetCode/%5BDAY31-32%5D33-Search-in-Rotated-Sorted-Array.py) | Medium     | Binary Search    |                                               |
+| Day33    | [백준-2667-단지번호 붙이기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY33%5D2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) | Silver     | DFS/BFS          |                                               |
+| Day34    | [백준-10815-숫자 카드](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY34%5D10815-%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.py) | Silver     | Binary Search    |                                               |
+| Day35    | [백준-2178-미로 탐색](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY35%5D2178-%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py) | Silver     | DFS/BFS          |                                               |
+| Day36    | [백준-2667-단지번호 붙이기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/%5BDAY36%5D2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py) | Silver     | DFS/BFS          |                                               |
+| Day37    | [백준-2468-안전영역](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/2468-%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.py) | Silver     | DFS/BFS          |                                               |
+| Day38    | [백준-14502-연구소](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/14502-%EC%97%B0%EA%B5%AC%EC%86%8C.py) | Gold       | DFS/BFS          |                                               |
+| Day39    | [백준-10026-적록색약](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/10026-%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py) | Gold       | DFS/BFS          |                                               |
+| Day40    | [백준-9663-N-Queen](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/9663-N-Queen.py) | Gold       | Backtracking     |                                               |
+| Day41    | [백준-1756-피자굽기](https://github.com/yxllout/DailyPractice/blob/main/Baekjoon/1756-%ED%94%BC%EC%9E%90%EA%B5%BD%EA%B8%B0.py) | Gold       | Binary Search    |                                               |
+| Day42    | [프로그래머스-영어 끝말잇기](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py) | Level 2    |                  |                                               |
+| Day43    | [프로그래머스-기지국 설치](https://github.com/hamcoding9/DailyPractice/blob/main/%EA%B8%B0%EC%B6%9C/Programmers%20Summer%20Winter%20Coding/%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98.py) | Level 3    |                  |                                               |
+| Day44    | [백준-10819-차이를 최대로](https://github.com/hamcoding9/DailyPractice/blob/main/Baekjoon/10819-%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C.py) | Silver     | brute force      |                                               |
+| Day45    | [프로그래머스-숫자 게임](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.py) | Level 3    |                  |                                               |
+| Day46    | [프로그래머스-단속 카메라](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%8B%A8%EC%86%8D%20%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | Level 3    | Greedy           |                                               |
+| Day47    | [프로그래머스-베스트 앨범](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94.py) | Level 3    | Hash             |                                               |
+| Day48    | [프로그래머스-가장 긴 팰린드롬](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py) | Level 2    |                  |                                               |
+| Day49    | [프로그래머스-주차 요금 계산(2022 Kakao)](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.py) | Level 2    |                  |                                               |
+| Day49    | [프로그래머스-더맵게](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py) | Level 2    | Heap             |                                               |
+| Day50    | [프로그래머스-게임 맵 최단거리](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py) | Level 2    | DFS/BFS          |                                               |
+| Day51    | [프로그래머스-성격 유형 검사(2022 Kakao)](https://github.com/hamcoding9/DailyPractice/blob/main/Programmers/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC.py) | Level 1    |                  |                                               |
+| Day52    | 프로그래머스-N으로 표현                                      | Level 3    | DP               |                                               |
+| Day53    | 프로그래머스-최솟값 만들기                                   | Level 2    |                  |                                               |
+| Day53    | 프로그래머스-JadenCase 문자열 만들기                         | Level 2    |                  |                                               |
+| Day54    | 프로그래머스-이진 변환 반복하기                              | Level 2    |                  |                                               |
+| Day54    | 프로그래머스-올바른 괄호                                     | Level 2    |                  |                                               |
+| Day55    | 프로그래머스-카펫                                            | Level 2    |                  |                                               |
+| Day56    | 연습문제-큰 수의 법칙                                        |            | Greedy           |                                               |
+| Day57    | 구명보트                                                     |            | Greedy           |                                               |
+| Day58    | 백준-18406-럭키 스트레이트                                   | Bronze     | 구현             |                                               |
+| Day58    | 연습문제-문자열 재정렬                                       |            | 구현             |                                               |
+| Day59    | 프로그래머스-H-index                                         | Level 2    | 정렬             |                                               |
+| Day59    | 프로그래머스-문자열 압축(2020 Kakao)                         | Lavel 2    | 구현             |                                               |
+| Day60    | 프로그래머스-자물쇠와 열쇠                                   | Level 3    | 구현             |                                               |
+| Day61    | 연습문제-정렬된 배열에서 특정 수의 개수 구하기               |            | Binary Search    |                                               |
+| Day62    | 연습문제-고정점 찾기                                         |            | Binary Search    |                                               |
+| Day63    | 백준-공유기 설치                                             |            | Binary Search    |                                               |
+| Day64    | 백준-안테기                                                  |            | Sort             |                                               |
+| Day65    | 백준-국영수                                                  |            | Sort             |                                               |
+| Day66    | 프로그래머스-실패율(2019 KAKAO)                              | Level 1    | Sort             |                                               |
+| Day67    | 백준-카드 정렬하기                                           |            | Sort             |                                               |
+| Day68    | 연습문제-모험가 길드                                         |            | Greedy           |                                               |
+| Day68    | 연습문제-곱하기 혹은 더하기                                  |            | Greedy           |                                               |
+| Day69    | 연습문제-만들 수 없는 금액                                   |            | Greedy           |                                               |
+| Day69    | 백준-뒤집기                                                  |            | Greedy           |                                               |
+| Day70    | 연습문제-볼링공 고르기                                       |            | Greedy           |                                               |
+| Day71    | 백준-특정 거리의 도시 찾기                                   |            | DFS/BFS          |                                               |
+| Day72    | 백준-경쟁적 전염                                             |            | DFS/BFS          |                                               |
+| Day73    | 프로그래머스-괄호변환(2020 KAKAO)                            | Level 2    | 구현             |                                               |
+| Day74    | 백준-음계                                                    | Bronze     |                  |                                               |
+|          | 백준-블랙잭                                                  | Bronze     |                  |                                               |
+|          | 백준-스택 수열                                               | Silver     |                  |                                               |
+|          | 백준-프린터 큐                                               | Silver     |                  |                                               |
+| Day75    | 백준-컨베이어 벨트 위의 로봇                                 | Gold 5     | 구현, 시뮬레이션 | [링크](https://www.acmicpc.net/problem/20055) |
+| Day76    | 백준-마법사 상어와 토네이도                                  | Gold 3     | 구현, 시뮬레이션 | [링크](https://www.acmicpc.net/problem/20057) |
+|          | 백준-연구소3                                                 | Gold 3     | 구현, BFS        | [링크](https://www.acmicpc.net/problem/17142) |
 
