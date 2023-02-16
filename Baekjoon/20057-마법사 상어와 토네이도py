@@ -1,0 +1,63 @@
+n = int(input())
+sand = []
+for i in range(n):
+    sand.append(list(map(int, input().split())))
+
+direction = 0 # 서->남->동->북
+target = 1 # 현재 방향에서 이동해야 하는 칸 수
+moved = 0 # 몇 칸 이동했는지 저장
+rotated = 0 # 얼마나 회전했는지 저장
+
+dx = [0, 1, 0, -1]
+dy = [-1, 0, 1, 0]
+
+def move():
+    global x, y, direction, target, moved, rotated
+    if moved == target:
+        direction = (direction + 1) % 4
+        rotated += 1
+        moved = 0
+    if rotated == 2:
+        target += 1
+        rotated = 0
+    # 한번 이동
+    x = x + dx[direction]
+    y = y + dy[direction]
+    moved += 1
+
+left = [[-2, 0, 0.02], [-1, -1, 0.1], [-1, 0, 0.07], [-1, 1, 0.01], [1, 1, 0.01], [1, 0, 0.07], [1, -1, 0.1], [0, -2, 0.05], [2, 0, 0.02]]
+right = [[x, -y, val] for x, y, val in left]
+up = [[y, x, val] for x, y, val in left]
+down = [[-y, x, val] for x, y, val in left]
+
+ratio = [left, down, right, up]
+
+cnt = 1
+x = n // 2
+y = n //2 
+result = 0
+
+while cnt < n*n:
+    move()
+    remain = sand[x][y]
+    for i in ratio[direction]:
+        nx, ny, val = i
+        s = int(sand[x][y] * val)
+        cx = x + nx
+        cy = y + ny
+        if cx < 0 or cx >= n or cy < 0 or cy >= n:
+            result += s
+        else:
+            sand[cx][cy] += s
+        remain -= s
+    cx = x + dx[direction]
+    cy = y + dy[direction]
+    if cx < 0 or cx >= n or cy < 0 or cy >= n:
+        result += remain
+    else:
+        sand[cx][cy] += remain
+    sand[x][y] = 0
+    cnt +=1
+
+
+print(result)
